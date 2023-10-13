@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Aleo-Bold.ttf",
+      "sha1": "8ab0af2865eb88fde24cae0364308345f51134c1"
+    },
+    {
+      "path": "assets/fonts/Aleo-BoldItalic.ttf",
+      "sha1": "be3fd3e3855a337573788251edda957b06958a8e"
+    },
+    {
+      "path": "assets/fonts/Aleo-Italic.ttf",
+      "sha1": "f11c91140228fda032fdfc7bbca96022c257d73a"
+    },
+    {
+      "path": "assets/fonts/Aleo-Light.ttf",
+      "sha1": "34b7668884d50b2fcedc7fdf7d18897848703951"
+    },
+    {
+      "path": "assets/fonts/Aleo-LightItalic.ttf",
+      "sha1": "9149342ecf11d69ef629d7eee2da8be1e956cac7"
+    },
+    {
+      "path": "assets/fonts/Aleo-Regular.ttf",
+      "sha1": "f2c027882b1357b68103173f4a064645ed3b0ec6"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Text-Bold.otf",
+      "sha1": "b27d8c428b282fbfd3d40362f4e3ef60afb95ebf"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Text-Light.otf",
+      "sha1": "dfc052b7e1aabd14920dbe798a23adcc3a3a521d"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Text-Medium.otf",
+      "sha1": "35b05b13f0c4a63cfc7d23b60c728c5d24cf14fd"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Text-Regular.otf",
+      "sha1": "85b4043974a2a3be5afbcc9ea2becab072d2cd8f"
+    },
+    {
+      "path": "assets/fonts/SF-Pro-Text-Semibold.otf",
+      "sha1": "d8c839390af4265e252fe445b06428c5baeec70d"
+    }
+  ]
+}
